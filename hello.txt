@@ -1,9 +1,11 @@
-<<<<<<< HEAD
-hello111112222
-add world in two in two
-add 22222 after hello1111
-=======
-hello
+22222hello
 add world in one
+two branch
 delete the '111111' after hello
->>>>>>> master
+
+
+
+
+9add 2222 before hello
+add two branch in line 3
+add three lines from line9
