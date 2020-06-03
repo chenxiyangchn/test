@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hello111112222
 add world in two in two
 add 22222 after hello1111
+=======
+hello
+add world in one
+delete the '111111' after hello
+>>>>>>> master
